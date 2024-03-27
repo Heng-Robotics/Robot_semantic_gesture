@@ -1,6 +1,7 @@
-# Semantic word Extraction based on BERT
+# Semantic word Extraction model based on BERT
 
-In this repo, I developed a model to extract semantic words from a joke. Feel free to clone and use it. If you face any problems, kindly post it on issues section.
+In this repo, I developed a model to extract semantic words from a joke. This model is trained based on our [joke dataset](https://docs.google.com/spreadsheets/d/143XgXG6tdPchy1lb5CNAbP5CBJEt7zcZJxGEa-4GEOs/edit?usp=sharing).
+Feel free to clone and use it. If you face any problems, kindly post it on issues section. 
 
 ## Requirements
 
